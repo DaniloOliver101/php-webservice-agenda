@@ -7,19 +7,19 @@ define('ABSPATH', dirname(__FILE__));
 define('DB_APP', 'WEBSERVICE MVC');
 
 // Nome do host da base de dados
-define('HOSTNAME', 'mysql.hostinger.com.br');
+define('HOSTNAME', '');
 
 // Banco de dados
 define('DB_TYPE', 'mysql');
 
 // Nome do DB
-define('DB_NAME', 'u388787754_ws');
+define('DB_NAME', '');
 
 // Usuário do DB - modifique para seu usuário do banco
-define('DB_USER', 'u388787754_ws');
+define('DB_USER', '');
 
 // Senha do DB - modifique para sua senha do banco
-define('DB_PASSWORD', 'strato101270');
+define('DB_PASSWORD', '');
 
 // Charset da conexão PDO
 define('DB_CHARSET', 'utf8');
